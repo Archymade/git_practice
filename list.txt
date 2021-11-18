@@ -1,4 +1,7 @@
 Fruits
+
+Here are a few fruits:
+
 1. Banana
 2. Strawberry
 3. Apple
