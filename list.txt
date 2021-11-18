@@ -1,3 +1,4 @@
-Banana
-Strawberry
-Apple
+Fruits
+1. Banana
+2. Strawberry
+3. Apple
